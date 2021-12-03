@@ -9,8 +9,8 @@ Simple UI showing location and current weather
 
 ---
 
-<img src="hhttps://github.com/Elichartnett/Weather-App/blob/main/3.png" alt="3" width="300"/>
+<img src="https://github.com/Elichartnett/Weather-App/blob/main/3.png" alt="3" width="300"/>
 
 ---
 
-<img src="hhttps://github.com/Elichartnett/Weather-App/blob/main/4.png" alt="4" width="300"/>
+<img src="https://github.com/Elichartnett/Weather-App/blob/main/4.png" alt="4" width="300"/>

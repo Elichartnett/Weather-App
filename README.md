@@ -1,5 +1,5 @@
 # Weather-App
-Simple UI showing location and current weather
+Simple UI showing location and current weather with use of Open Weather API
 
 <img src="https://github.com/Elichartnett/Weather-App/blob/main/1.png" alt="1" width="300"/>
 
